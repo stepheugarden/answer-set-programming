@@ -4,4 +4,5 @@ channels:
 dependencies:
   - clingo
   - jupyterlab
+  - ipython
 prefix: /home/stephan/miniconda3/envs/potassco
