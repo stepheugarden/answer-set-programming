@@ -2,8 +2,6 @@
 #const maxweight=15.
 #const maxvolume=21.
 
-n(N) :- N = #count{I: weight(I,_)}.
-
 % select items
 {selected(I)} :- weight(I,_).
 
